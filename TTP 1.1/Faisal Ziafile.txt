@@ -1,0 +1,12 @@
+6
+DEPARTMENT TEACHER DETALIS:
+
+Teacher ID: 6
+Name: Faisal Zia
+Department: BSE
+
+		**TIME TABLE FOR BSE-2B DEPARTMENT**
+Day	Timing		Teacher Name	Teacher Course		Lab NO
+Friday	08:30-11:30	Faisal Zia	OOP LAB			4-01
+
+                             ######

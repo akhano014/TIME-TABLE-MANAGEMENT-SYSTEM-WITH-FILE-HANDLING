@@ -1,0 +1,12 @@
+2
+DEPARTMENT TEACHER DETALIS:
+
+Teacher ID: 2
+Name: Sabir khan
+Department: BSE
+
+               **TIME TABLE FOR BSE-2B DEPARTMENT**
+Day	Timing		Teacher Name	Teacher Course	 Room NO
+Monday	12:30-02:30	Sabir khan	ISL		 4-02
+
+                            #####

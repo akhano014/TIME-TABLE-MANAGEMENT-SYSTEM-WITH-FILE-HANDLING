@@ -1,0 +1,13 @@
+3
+DEPARTMENT TEACHER DETALIS:
+
+Teacher ID: 3
+Name: Zubair Abbasi
+Department: BSE
+
+		**TIME TABLE FOR BSE-2B DEPARTMENT**
+Day	Timing		Teacher Name	Teacher Course		Room NO
+Monday	01:30-03:30	Zubair Abbasi   LA			4-19
+Tuesday 11:30-12:30     Zubair Abbasi   LA                      4-19
+
+                           #####

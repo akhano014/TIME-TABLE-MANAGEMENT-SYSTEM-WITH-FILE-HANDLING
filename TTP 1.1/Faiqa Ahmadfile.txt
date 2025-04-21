@@ -1,0 +1,12 @@
+7
+DEPARTMENT TEACHER DETALIS:
+
+Teacher ID: 7
+Name: Faiqa Ahmad
+Department: BSE
+
+		**TIME TABLE FOR BSE-2B DEPARTMENT**
+Day	Timing		Teacher Name	Teacher Course		Room NO
+Friday	11:30-01:30	Faiqaa Ahmad	ECS			4-19
+
+                                 ######

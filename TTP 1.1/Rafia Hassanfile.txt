@@ -1,0 +1,13 @@
+4
+DEPARTMENT TEACHER DETALIS:
+
+Teacher ID: 4
+Name: Rafia Hassan
+Department: BSE
+
+             **TIME TABLE FOR BSE-2B DEPARTMENT**
+Day	 Timing		Teacher Name	Teacher Course	 Room NO
+Tuesday	 11:30-12:30	Rafia Hassan	ISE		 4-03
+Thursday 10:30-12:30	Rafia Hassan	ISE		 4-03
+ 
+                          ######

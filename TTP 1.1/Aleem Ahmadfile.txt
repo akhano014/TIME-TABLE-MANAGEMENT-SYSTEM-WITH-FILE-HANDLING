@@ -1,0 +1,13 @@
+1
+DEPARTMENT TEACHER DETALIS:
+
+Teacher ID: 1
+Name: Aleem Ahmad
+Department: BSE
+
+              **TIME TABLE FOR BSE-2B DEPARTMENT**
+Day	 Timing		Teacher Name	  Teacher Course   Room NO
+Monday	 10:30-12:30	Dr.Aleem Ahmad	  OOP		   4-19
+Tuesday	 08:30-09:30	Dr.Aleem Ahmad	  OOP		   4-19
+
+                            ######

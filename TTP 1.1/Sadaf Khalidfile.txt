@@ -1,0 +1,13 @@
+5
+DEPARTMENT TEACHER DETALIS:
+
+Teacher ID: 5
+Name: Sadaf Khalid
+Department: BSE
+
+		**TIME TABLE FOR BSE-2B DEPARTMENT**
+Day	    Timing	  Teacher Name	 Teacher Course	  Room NO
+Wednesday   11:30-01:30	  Sadaf Khalid	 DS		  4-18
+Thursday    12:30-01:30	  Sadaf Khalid	 DS		  4-18
+
+                              #####
